@@ -37,6 +37,6 @@
     </div>
   </div>
   <div class="bottom">
-    <p>&copy; <?php echo date('Y'); ?> <span>Milky</span>. Created by &nbsp;&middot;&nbsp; Gayatri Deshpande</p>
+    <p>&copy; <?php echo date('Y'); ?> <span>Milky</span>. Created by &nbsp;&middot;&nbsp; Jyoti Gavali</p>
   </div>
 </footer>
